@@ -21,7 +21,7 @@ This repository contains a bash script to automate the installation and configur
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/epic-miner/RDP
+    git clone https://github.com/Github-friendly/Forked.git
     cd RDP
     ```
 
