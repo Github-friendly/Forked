@@ -5,7 +5,7 @@ username="user"
 password="root"
 
 # Set default CRP value
-CRP=""
+CRP="DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AQlEd8y1Qvg4K-0CNuFIZzBADlgKmaboSAW4byMNXBlyt4GoET3sV2SIoh5s9TGEdp__KA" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)"
 
 # Set default Pin value
 Pin="123456"
